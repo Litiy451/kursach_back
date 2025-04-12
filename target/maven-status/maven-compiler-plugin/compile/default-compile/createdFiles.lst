@@ -1,4 +1,4 @@
-App.class
-App$MessageRequest.class
-Message.class
-Database.class
+com\example\Database.class
+com\example\Message.class
+com\example\App$MessageRequest.class
+com\example\App.class
